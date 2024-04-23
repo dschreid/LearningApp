@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">learning app</string>
+    <string name="text_format_points">%d points</string>
+    <string name="text_format_min_learned">%d min learned</string>
+    <string name="continue_timer">continue timer</string>
+    <string name="pause_timer">pause timer</string>
+    <string name="abort">abort</string>
+    <string name="learning_templates">view learning templates</string>
+    <string name="start_learning_unit">start learning unit</string>
+    <string name="previous_learning_units">view previous learning units</string>
+    <string name="create_reminder">" create a reminder"</string>
+    <string name="back_button">back</string>
+    <string name="templates">templates</string>
+    <string name="reminder">reminder</string>
+    <string name="subject">subject</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="remind">reminder:</string>
+    <string name="at_the_time">at the time</string>
+    <string name="fifteen_minutes_before">15 minutes before</string>
+    <string name="thirty_minutes_before">30 minutes before</string>
+    <string name="sixty_minutes_before">60 minutes before</string>
+    <string name="name">name</string>
+    <string name="minutes">minutes</string>
+    <string name="create_Template">create template</string>
+    <string name="shop">shop</string>
+    <string name="learning_unit_header">How was your learning unit?</string>
+    <string name="very_productiv">very productive</string>
+    <string name="productiv">" productiv"</string>
+    <string name="not_so_productive">not so productive</string>
+    <string name="not_productive">not productive at all</string>
+    <string name="hours">hours</string>
+    <string name="valudation">valudation</string>
+    <string name="shop_rainsounds">Rain Sounds</string>
+    <string name="neutral">neutral</string>
+    <string name="timer_label" >minutes learned</string>
+    <string name="reminders">reminders</string>
+    <string name="reminder_title">Don\'t forget!</string>
+    <string name="reminder_content">Your %s practice starts in %d minutes</string>
+    <string name="input_error_not_empty">must not be empty</string>
+    <string name="learning_history_header">Learning History</string>
+    <string name="template_select_header">Select a template</string>
+    <string name="use" >use</string>
+    <string name="close">Close</string>
+</resources>

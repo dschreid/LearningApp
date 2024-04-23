@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="blauerKreisButton" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">79dp</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:backgroundTint">@color/darkblue</item>
+    </style>
+    
+    <style name="zurueckButton" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:text">@string/back_button</item>
+        <item name="layout_editor_absoluteX">7dp</item>
+        <item name="layout_constraintBottom_toBottomOf">parent</item>
+        <item name="backgroundTint">@color/darkblue</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="trashButton" parent="TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/trash</item>
+    </style>
+
+    <style name="useButton" parent="TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/train</item>
+    </style>
+
+    <style name="editButton" parent="TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/edit</item>
+    </style>
+
+    <style name="hinterGrundTable" parent="TextAppearance.AppCompat">
+        <item name="android:background">@color/darkblue</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">50dp</item>
+        <item name="android:layout_marginBottom">50dp</item>
+    </style>
+
+    <style name="vorderGrundTable" parent="TextAppearance.AppCompat">
+        <item name="android:background">@color/blue</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="lerneinheiten" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingEnd">20dp</item>
+        <item name="android:paddingBottom">15dp</item>
+    </style>
+
+    <style name="Switch" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+    <style name="Punkte" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">"000 Punkte"</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_marginStart">17dp</item>
+        <item name="android:layout_marginTop">7dp</item>
+    </style>
+
+    <style name="Minuten" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">"000 min schon gelernt"</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_marginEnd">17dp</item>
+        <item name="android:layout_marginTop">7dp</item>
+    </style>
+
+
+
+</resources>

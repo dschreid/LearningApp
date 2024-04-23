@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LernApp</string>
+    <string name="text_format_points">%d Punkte</string>
+    <string name="text_format_min_learned">%d min schon gelernt</string>
+    <string name="continue_timer">Timer fortsetzen</string>
+    <string name="pause_timer">Timer pausieren</string>
+    <string name="abort">Abbruch</string>
+    <string name="learning_templates">Lernvorlagen ansehen</string>
+    <string name="start_learning_unit">Lerneinheit starten</string>
+    <string name="previous_learning_units">Bisherige Lerneinheiten einsehen</string>
+    <string name="create_reminder">Erinnerung erstellen</string>
+    <string name="back_button">zurück</string>
+    <string name="templates">Vorlagen</string>
+    <string name="reminders">Erinnerungen</string>
+    <string name="reminder">Erinnerung</string>
+    <string name="subject">Fach</string>
+    <string name="date">Datum</string>
+    <string name="time">Zeit</string>
+    <string name="remind">Erinnern</string>
+    <string name="at_the_time">Zum Zeitpunkt</string>
+    <string name="fifteen_minutes_before">15 Minuten vorher</string>
+    <string name="thirty_minutes_before">30 Minuten vorher</string>
+    <string name="sixty_minutes_before">60 Minuten vorher</string>
+    <string name="name">Name</string>
+    <string name="minutes">Minuten</string>
+    <string name="create_Template">Vorlage erstellen</string>
+    <string name="shop">Shop</string>
+    <string name="learning_unit_header">Wie war deine lerneinheit?</string>
+    <string name="learning_history_header">Bisherige Lerneinheiten</string>
+    <string name="template_select_header">Wähle eine Vorlage</string>
+    <string name="very_productiv">Sehr produktiv</string>
+    <string name="productiv">Produktiv</string>
+    <string name="not_so_productive">nicht so produktiv</string>
+    <string name="neutral">Neutral</string>
+    <string name="not_productive">Gar nicht Produktiv</string>
+    <string name="hours">Stunden</string>
+    <string name="valudation">Bewertung</string>
+    <string name="shop_rainsounds">Regen Sounds</string>
+    <string name="timer_label">minuten schon gelernt</string>
+
+    <string name="chanel_id" translatable="false">learningapp</string>
+    <string name="reminder_title">Nicht vergessen!</string>
+    <string name="reminder_content">Deine %s Übung startet in %s minuten</string>
+    <string name="input_error_not_empty" >Darf nicht leer sein</string>
+    <string name="use" >Nutze</string>
+    <string name="close">Schließen</string>
+</resources>

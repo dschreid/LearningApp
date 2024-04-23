@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/vorderGrundTable"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/course"
+        style="@style/lerneinheiten" />
+
+    <TextView
+        android:id="@+id/minutes"
+        style="@style/lerneinheiten" />
+
+    <TextView
+        android:id="@+id/bewertung"
+        style="@style/lerneinheiten" />
+
+    <TextView
+        android:id="@+id/uhrZeit"
+        android:maxWidth="300dp"
+        style="@style/lerneinheiten" />
+
+</TableRow>
